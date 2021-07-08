@@ -1,0 +1,13 @@
+python/
+perl/
+php/
+ruby/
+docker-compose.php.yml
+docker-compose.ruby.yml
+docker-compose.perl.yml
+docker-compose.python.yml
+.*
+!.gitignore
+!.bashrc
+!.alias.bash
+/pprof
